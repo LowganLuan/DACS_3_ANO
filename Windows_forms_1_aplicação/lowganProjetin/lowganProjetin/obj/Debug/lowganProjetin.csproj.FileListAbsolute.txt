@@ -1,0 +1,8 @@
+c:\users\1144002605\documents\visual studio 2015\Projects\lowganProjetin\lowganProjetin\bin\Debug\lowganProjetin.exe.config
+c:\users\1144002605\documents\visual studio 2015\Projects\lowganProjetin\lowganProjetin\bin\Debug\lowganProjetin.exe
+c:\users\1144002605\documents\visual studio 2015\Projects\lowganProjetin\lowganProjetin\bin\Debug\lowganProjetin.pdb
+c:\users\1144002605\documents\visual studio 2015\Projects\lowganProjetin\lowganProjetin\obj\Debug\lowganProjetin.Form1.resources
+c:\users\1144002605\documents\visual studio 2015\Projects\lowganProjetin\lowganProjetin\obj\Debug\lowganProjetin.Properties.Resources.resources
+c:\users\1144002605\documents\visual studio 2015\Projects\lowganProjetin\lowganProjetin\obj\Debug\lowganProjetin.csproj.GenerateResource.Cache
+c:\users\1144002605\documents\visual studio 2015\Projects\lowganProjetin\lowganProjetin\obj\Debug\lowganProjetin.exe
+c:\users\1144002605\documents\visual studio 2015\Projects\lowganProjetin\lowganProjetin\obj\Debug\lowganProjetin.pdb
